@@ -1,1 +1,1 @@
-# python_metropolia_jatko
+# Metropolia UAS advanced python course
