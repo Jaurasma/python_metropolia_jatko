@@ -1,6 +1,4 @@
 # Tehtävä 1 opintolaskuri
-# Nimi: Joonatan Aurasmaa
-# Opiskelijanumero: 2517423
 
 def tervetuloa():
     kurssitulostus = "Suoritetut kurssit:\n"
