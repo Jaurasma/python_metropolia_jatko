@@ -1,6 +1,6 @@
 # Tehtävä 1 opintolaskuri
 
-def tervetuloa():
+def opintolaskuri():
     kurssitulostus = "Suoritetut kurssit:\n"
     kurssien_määrä = 0
     pisteiden_summa = 0
@@ -41,7 +41,7 @@ def tervetuloa():
         print("Opintopisteet yhteensä: 0")
 
 def main():
-    tervetuloa()
+    opintolaskuri()
 
 if __name__ == "__main__":
     main()
