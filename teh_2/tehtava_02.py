@@ -1,5 +1,4 @@
-# Nimi: Joonatan Aurasmaa
-# Opiskelijanumero: 2517423
+# Tehtävä 2 opintolaskuri
 
 def kysy_kurssi():
     print("Anna kurssin nimi (lopeta lopettaa)")
