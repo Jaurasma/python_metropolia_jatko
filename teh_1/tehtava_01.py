@@ -1,3 +1,4 @@
+# Tehtävä 1 opintolaskuri
 
 def tervetuloa():
     kurssitulostus = "Suoritetut kurssit:\n"

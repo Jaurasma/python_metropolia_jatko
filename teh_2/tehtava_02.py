@@ -1,6 +1,5 @@
 # Nimi: Joonatan Aurasmaa
-# Opiskelijanumero: XXXXXXX
-
+# Opiskelijanumero: 2517423
 
 def kysy_kurssi():
     print("Anna kurssin nimi (lopeta lopettaa)")

@@ -1,1 +1,1 @@
-# Metropolia UAS advanced python course
+# Metropolia UAS advanced python course 🐍
